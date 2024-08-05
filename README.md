@@ -1,6 +1,6 @@
 
 
-# RapidScan v1.2 - _The Multi-Tool Web Vulnerability Scanner_
+# RapidScan v1 - _The Multi-Tool Web Vulnerability Scanner_
 _**RapidScan has been ported to Python3 i.e. v1.2**. The Python2.7 codebase is available on v1.1 releases section. Download and use it if you still haven't upgraded to Python 3. Kindly note that the v1.1 (Python2.7) will not be enhanced further._
 
 ## Evolution:
@@ -56,7 +56,7 @@ https://user-images.githubusercontent.com/6489729/138737524-9c4dc567-ec78-40b4-9
 Alternatively, your can install the `rapidscan` python module with `pip`. This will create a link for `rapidscan` in your PATH. 
 
 ```
-git clone https://github.com/skavngr/rapidscan.git /opt/
+git clone https://github.com/Bodheswaran/MK-SCORPION.git
 cd /opt/rapidscan
 python3 -m pip install .
 ```
